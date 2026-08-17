@@ -13,7 +13,7 @@ Here's what we're currently planning for upcoming releases.
 ## What We're Working On 
 
 **Full Accessibility**  
-Making Easy Invoice Builder work great for everyone. We're adding full VoiceOver support so every screen and action can be used by sound alone, clearer color contrast and status indicators that don't rely on color, Voice Control, Reduced Motion support, and larger, easier-to-tap controls. We're building toward complete coverage of Apple's accessibility standards — in both English and Spanish. Have an accessibility need we haven't covered? Let us know and we'll prioritize it.
+Making Invoice Maker work great for everyone. We're adding full VoiceOver support so every screen and action can be used by sound alone, clearer color contrast and status indicators that don't rely on color, Voice Control, Reduced Motion support, and larger, easier-to-tap controls. We're building toward complete coverage of Apple's accessibility standards — in both English and Spanish. Have an accessibility need we haven't covered? Let us know and we'll prioritize it.
 
 **Spanish Language Support for Outputs**  
 Spanish output as well, rather than just input.
@@ -29,7 +29,7 @@ Set due dates in business days instead of calendar days — so Net 30 always mea
 More ways to sort and filter your completed invoices so you can find what you need faster.
 
 **Additional Invoice Templates**  
-More invoice template options, including ones with a significantly different looks and structures relative to what exists now.
+More invoice template options, including ones with a significantly different look and structure relative to what exists now.
 
 ---
 
